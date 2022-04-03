@@ -1,4 +1,4 @@
-# gamegurina
+# pesgame
 
 ## Project setup
 ```
